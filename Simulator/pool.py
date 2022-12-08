@@ -6,6 +6,7 @@ from Simulator.origin_class_stats import origin_class, chosen_exclude
 from config import LOGMESSAGES
 
 
+
 class pool:
 	def __init__(self):
 		self.num_cost_1 = 0
